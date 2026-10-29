@@ -27,7 +27,7 @@ portfolio/
 
 1. Clone o repositório:
    ```
-   git clone https://github.com/adalqv/portfolio.git
+   git clone https://github.com/adalqv/adalqv.github.io.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador.
 
